@@ -1,0 +1,19 @@
+- name: "Twitter"
+  url: ""
+  icon: "x"
+  weight: 1
+
+- name: "Hacking and Coffee Discord"
+  url: ""
+  icon: "discord"
+  weight: 2
+
+- name: "GitHub"
+  url: ""
+  icon: "github"
+  weight: 3
+
+- name: "LinkedIn"
+  url: ""
+  icon: "linkedin"
+  weight: 4
