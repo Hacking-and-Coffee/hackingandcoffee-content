@@ -1,7 +1,7 @@
 ---
 title: "Pardon the Dust"
 date: 2024-11-22
-draft: true
+draft: false
 author_image: 'images/about.jpg'
 type: post
 url: /posts/pardon-the-dust
