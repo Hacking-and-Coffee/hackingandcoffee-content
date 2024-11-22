@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2023-06-15
 draft: false
-author_image: 'images/about.jpg'
+author_image: 'images/about.webp'
 type: about
 ---
 
