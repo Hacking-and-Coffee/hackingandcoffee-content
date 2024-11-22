@@ -3,8 +3,6 @@ title: "About Me"
 date: 2023-06-15
 draft: false
 author_image: 'images/about.jpg'
-type: about
-url: about
 ---
 
 First and foremost, the alleged “tail” has its own section if you are inquiring about this imaginary purple ball of fluff. Seriously people, grow up. Still here? Ok.
