@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2023-06-15
+date: 2024-11-22
 draft: false
 author_image: 'images/about.webp'
 type: about
