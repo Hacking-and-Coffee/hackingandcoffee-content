@@ -3,6 +3,7 @@ title: "Pardon the Dust"
 date: 2024-11-22
 draft: false
 author_image: 'images/about.jpg'
+author: 'hon1nbo'
 ---
 
 ### The old site
