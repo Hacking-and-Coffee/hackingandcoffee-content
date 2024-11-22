@@ -1,19 +1,19 @@
 - name: "Twitter"
-  url: ""
+  url: "https://twitter.com/hon1nbo"
   icon: "x"
   weight: 1
 
-- name: "Hacking and Coffee Discord"
-  url: ""
+- name: "Discord"
+  url: "https://discordapp.com/users/hon1nbo"
   icon: "discord"
   weight: 2
 
 - name: "GitHub"
-  url: ""
+  url: "https://github.com/hon1nbo"
   icon: "github"
   weight: 3
 
 - name: "LinkedIn"
-  url: ""
+  url: "https://linkedin.com/in/hon1nbo"
   icon: "linkedin"
   weight: 4
