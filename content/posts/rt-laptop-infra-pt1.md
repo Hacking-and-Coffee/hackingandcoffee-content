@@ -1,7 +1,7 @@
 ---
 title: "Red Team Laptop & Infrastructure (pt 1: Architecture)"
 date: 2018-02-28
-draft: true
+draft: false
 author_image: 'images/about.jpg'
 author: 'hon1nbo'
 ---
@@ -24,9 +24,8 @@ That last item tends to be the tricky part; in red teaming, one never knows what
 
 # The Architecture
 
-TKTK Photo
+![Laptop Architecture](https://lucid.app/publicSegments/view/424dcf0f-ee22-4b4a-ae7d-e10a2f6ee414/image.jpeg 'Laptop Architecture')
 
-Laptop Architecture
 
 ### High-Level Breakdown
 At a high level, the pentesting laptop is basically a hypervisor with a minimalist user interface, and all the actual work is broken up into VMs. Before anyone says “This is Qubes!,” the issue here is that the Xen beneath Qubes doesn’t get a long with some items in the field, and this has a far higher level of granularity. Qubes’ design, and best role, is a defensive endpoint; it is not designed for offensive work, and does not contain the testing required to ensure a stable build like Kali Linux for purposes such as pentesting and exploitation. I’m still keeping my eye on the Qubes project though in general, and do run it on some of my other hardware.
@@ -71,9 +70,7 @@ Look, we’ve already solved the practical attack vectors!
 # The Bigger Architecture
 In the bigger scheme of things, having a local kick-ass laptop build is nice but it can do more. Let’s take a look at how I tied this into a red team support infrastructure.
 
-TKTK photo
-
-Infrastructure Architecture
+![Infrastructure Architecture](https://www.lucidchart.com/publicSegments/view/dccb8e81-708f-4ad7-b917-fad7ccb77553/image.jpeg)
 
 In the support infrastructure we have a PfSense image running in a provider such as Google Cloud, with backend C2. This can, of course, run on any externally available environment.
 
