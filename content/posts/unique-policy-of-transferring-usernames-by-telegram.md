@@ -42,7 +42,7 @@ This can cause a lot of havoc, especially in the case where one has, I don’t k
 
 Below is a basic attack path for a common conversation amongst furries with an established handle (at least allegedly around me… don’t know why people say they see me at FurCons, or why people say I have a purple tail and ears. I find the accusations outrageous).
 
-![Basic Telegram Handle Theft Attack](/images/posts/telegram_attack_path_01.webp)
+![Basic Telegram Handle Theft Attack](/images/telegram_attack_path_01.webp)
 
 See how this can quickly become a problem? Since Charlie does not have Bob as a phone contact, the handle is the only method of opening a communication channel. @Charlie would have no way of knowing about the name change. Why does Telegram allow this?  Telegram don’t have a clear answer to why they believe this is a non-issue.. They say the policy is as it is because their legal team is small, but if there was an actual Trademark dispute then it would be a different scenario in the first place (and a court makes that determination, not Telegram). I have had some interesting discussions on twitter, but no productive explanation came of it. Some defending Telegram blame IG/FB for something that they have no control over (i.e. Telegram’s policy choice), but that has not been an official answer either (and would be an unacceptable one if they officially said that)
 
