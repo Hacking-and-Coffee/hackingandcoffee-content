@@ -16,7 +16,7 @@ It recently came to the attention of a larger audience after a user, who had the
 > We understand that certain usernames are part of an online identity for some of us. If your desired username is already taken, we will be happy to help you acquire it for your account or channel, provided that you have that same username on at least two of these services: Facebook, Twitter, Instagram.
 
 ## This is concerning to say the least
-I wrote an {initial response on Telegra.ph](https://telegra.ph/Why-the-saman-case-is-serious-05-31), however it was not comprehensive and covered only one case (poorly I might add, since it was written quickly I implied that a conversation already existed in a current state when I said they talk regularly).
+I wrote an [initial response on Telegra.ph](https://telegra.ph/Why-the-saman-case-is-serious-05-31), however it was not comprehensive and covered only one case (poorly I might add, since it was written quickly I implied that a conversation already existed in a current state when I said they talk regularly).
 
 So here I present a set of conditions this policy does not account for, and reasons why most large providers have set a long agreed upon industry standard for *not* reissuing usernames or handles.
 
