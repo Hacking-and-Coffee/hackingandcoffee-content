@@ -16,7 +16,7 @@ F/OSS replacement for LinkTree, and runs on Cloudflare pages without even having
 
 So thanks LittleLink for making my life easier.
 
-You can see how I run [https://hon1nbo.com](hon1nbo.com) using [https://github.com/sethcottle/littlelink](LittleLink) in [https://github.com/hon1nbo/littlelink](my repo).
+You can see how I run [https://hon1nbo.com](https://hon1nbo.com) using [littlelink](https://github.com/sethcottle/LittleLink) in [My Repo](https://github.com/hon1nbo/littlelink)).
 
 Cheers,
 
