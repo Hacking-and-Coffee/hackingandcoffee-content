@@ -26,7 +26,7 @@ All of our consulting work can be done from static or dynamic perspectives.
 
 # Contact Hacking & Coffee
 
-To learn more about our offerings, reach out to us via our [https://deaddrop.hackingand.coffee](Secure Messaging System) to discuss your needs. Depending on the work required we may be able to furnish some sample reports.
+To learn more about our offerings, reach out to us via our [Secure Messaging System](https://deaddrop.hackingand.coffee)) to discuss your needs. Depending on the work required we may be able to furnish some sample reports.
 
 ~Hon1nbo,
 Proprietor, Hacking & Coffee LLC
