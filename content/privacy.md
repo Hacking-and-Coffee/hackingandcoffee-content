@@ -20,7 +20,7 @@ Whilst not E2EE, we also can accept email via Proton mail address. We are curren
 
 ### Communications
 * **No Adverts** - Hacking & Coffee will communicate as necessary with customers and prospective customers. We do not perform any advertising via email, SMS/MMS, phone, or mail.
-* **SMS/MMS** - We will only text you if we are provided a mobile number for communication related to work via Opt-in consent. All SMS/MMS is direct to a member of Hacking & Coffee and no automatic messages are sent or received other than carrier required notices regaring opt-out. Data and carrier rates may apply. You can opt out of SMS/MMS anytime by sending us "STOP" or asking Hacking & Coffee through any communication method.
+* **SMS/MMS** - We will only text you if we are provided a mobile number for communication related to work via Opt-in consent. Data and carrier rates may apply. No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties
 
 ### Data we Store
 * **Active conversations** - We store Email and/or SMS as needed to continue operations or provide support with you.
