@@ -11,12 +11,16 @@ As a small business, we believe that the Privacy Policy should be small and simp
 
 As much as we'd like to not store anything, we unfortuantely have to store some information. Here's how we store it, when we delete it, and what we do with it.
 
-## How you can Improve Privacy
+## How you can Improve Privacy with us
 Hacking & Coffee has a number of End-to-End Encryption (E2EE) options for communicating with customers to limit access by our providers, including:
 * Signal
 * PGP
 * Wire
 Whilst not E2EE, we also can accept email via Proton mail address. We are currently in the process of migrating our email to default to Proton Mail.
+
+### Communications
+* **No Adverts** - Hacking & Coffee will communicate as necessary with customers and prospective customers. We do not perform any advertising via email, SMS/MMS, phone, or mail.
+* **SMS/MMS** - Data and carrier rates may apply. You can opt out of SMS/MMS anytime by sending us "STOP" or asking Hacking & Coffee through any communication method.
 
 ### Data we Store
 * **Active conversations** - We store Email and/or SMS as needed to continue operations or provide support with you.
@@ -33,10 +37,9 @@ Whilst not E2EE, we also can accept email via Proton mail address. We are curren
 * **Github** *(Code)* - Code development projects generally run out of Github. Upon request we can self-host isolated Gitlab servers for specific needs.
 
 ### Data Removal
-* Hacking & Coffee will honour all data removal requests for customers. Removal requests can be granular upon customer request, such as removing specific CAD files or similar.
-* Hacking & Coffee will proactively delete any information 
-* Hacking & Coffee will remove data within 7 days upon acknowledgement of receiving the request. If this timeline cannot be met, communication will be provided with the adjusted timeline and reason behind it.
-* Personal information not necessary for communication will be proactively deleted after the completion or termination of associated work. This includes, but is not limited to, Access Codes for facilities, logins for computer systems, biometrics (including body measurements for any custom fabric work). Medical information will be proactively removed unless ongoing work is discussed, in which case only the minimum information required for safe operation will be maintained (such food to avoid bringing to a customer site for allergy purposes).
+* **Data Removal Requests** - Hacking & Coffee will honour all data removal requests for customers.Hacking & Coffee will honour all data removal requests for customers. Removal requests can be granular upon customer request, such as removing specific CAD files or similar.
+* **Removal Timeline** - Hacking & Coffee will remove data within 7 days upon acknowledgement of receiving the request. If this timeline cannot be met, communication will be provided with the adjusted timeline and reason behind it.
+* **Personal Information** - * Hacking & Coffee will proactively delete any Personal Information not necessary for communication after the completion or termination of associated work. This includes, but is not limited to, Access Codes for facilities, logins for computer systems, biometrics (including body measurements for any custom fabric work). Medical information will be proactively removed unless ongoing work is discussed, in which case only the minimum information required for safe operation will be maintained (such food to avoid bringing to a customer site for allergy purposes).
 
 ### Data Sharing
 * Outside of the two exceptions defined in the next section, Hacking & Coffee does not share any data without explicitly asking for consent directly.
